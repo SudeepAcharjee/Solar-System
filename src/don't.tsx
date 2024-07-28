@@ -829,7 +829,7 @@ const App = () => {
     <p>
       The moons are Charon (discovered in 1978,), Hydra and Nix (both discovered
       in 2005), Kerberos originally P4 (discovered 2011) and Styx originally P5
-      (discovered 2012) official designations S/2011 (134340) 1 and S/2012
+      (discovered 2012) official designationsS/2011 (134340) 1 and S/2012
       (134340) 1.
     </p>
   </div>
